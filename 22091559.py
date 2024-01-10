@@ -102,8 +102,6 @@ digital literacy countries.
 
 fig.text(0.5, 0.02, summary_text, ha='center', va='center', fontsize=14, color='darkblue', bbox=dict(boxstyle="round", ec=(0.5, 0.5, 0.5), fc=(0.9, 0.9, 0.9)))
 
-# Save the dashboard
-plt.savefig("22091559.png", dpi=300)
 
 # Show the dashboard
 plt.show()
